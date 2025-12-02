@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEBF9351-4039-4E36-98BF-428D4FF9A303}|Task_Manager\\Task_Manager.csproj|c:\\users\\resu\\downloads\\temp\\studies\\devops_tools\\2\\task_manager\\task_manager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBF9351-4039-4E36-98BF-428D4FF9A303}|Task_Manager\\Task_Manager.csproj|solutionrelative:task_manager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEBF9351-4039-4E36-98BF-428D4FF9A303}|Task_Manager\\Task_Manager.csproj|c:\\users\\resu\\downloads\\temp\\studies\\devops_tools\\2\\task_manager\\task_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEBF9351-4039-4E36-98BF-428D4FF9A303}|Task_Manager\\Task_Manager.csproj|solutionrelative:task_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,28 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\Task_Manager\\Program.cs",
-              "RelativeDocumentMoniker": "Task_Manager\\Program.cs",
-              "ToolTip": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\Task_Manager\\Program.cs",
-              "RelativeToolTip": "Task_Manager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T11:40:54.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -44,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\Task_Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\Task_Manager\\Program.cs",
+              "RelativeToolTip": "Task_Manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:39:14.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\Task_Manager\\Task.cs",
+              "RelativeDocumentMoniker": "Task_Manager\\Task.cs",
+              "ToolTip": "C:\\Users\\resu\\Downloads\\temp\\studies\\Devops_Tools\\2\\Task_Manager\\Task_Manager\\Task.cs",
+              "RelativeToolTip": "Task_Manager\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:40:54.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
